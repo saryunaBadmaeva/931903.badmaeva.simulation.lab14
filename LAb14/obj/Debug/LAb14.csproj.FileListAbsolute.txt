@@ -1,0 +1,21 @@
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\bin\Debug\LAb14.exe.config
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\bin\Debug\LAb14.exe
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\bin\Debug\LAb14.pdb
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.csproj.AssemblyReference.cache
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.Form1.resources
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.Properties.Resources.resources
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.csproj.GenerateResource.cache
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.csproj.CoreCompileInputs.cache
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.exe
+D:\Visual Studio Apps\Simulation\LAb14\LAb14\obj\Debug\LAb14.pdb
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\bin\Debug\LAb14.exe.config
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\bin\Debug\LAb14.exe
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\bin\Debug\LAb14.pdb
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.csproj.AssemblyReference.cache
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.Form1.resources
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.Properties.Resources.resources
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.csproj.GenerateResource.cache
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.csproj.CoreCompileInputs.cache
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.exe
+C:\Users\badma\OneDrive\Рабочий стол\LAb14\LAb14\obj\Debug\LAb14.pdb
